@@ -1,0 +1,33 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.site-title::before {
+    content: url("/assets/logo.png");
+    display: inline-block;
+    position: relative;
+    width: 227px;
+    top: 10px;
+}
+.site-title{ 
+    font-size: 0px;
+}
+
+h2 {
+    font-weight: bold;
+    letter-spacing: -0.5px;
+}
+    
+.home blockquote{
+    background: #EEE;
+    color: #000;
+    padding: 20px;
+    font-size: 24px;
+    font-style: none;
+}
