@@ -1,8 +1,8 @@
 A two-day workshop to discuss public AI in the US, bringing together federal agencies, universities, national laboratories, and civil society.
 
-**Location**: Library of Congress
-**Dates**: June 6-7, 2024
-**Website**: https://publicai.us
+- **Location**: Library of Congress
+- **Dates**: June 6-7, 2024
+- **Website**: https://publicai.us
 
 In this workshop, we will bring together public sector professionals, civil society, and academic researchers to discuss _public AI_, or AI as public infrastructure.
 
