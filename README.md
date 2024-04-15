@@ -1,3 +1,5 @@
+# AI as Public Infrastructure
+
 A two-day workshop to discuss public AI in the US, bringing together federal agencies, universities, national laboratories, and civil society.
 
 - **Location**: Library of Congress
