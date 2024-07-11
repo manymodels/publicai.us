@@ -1,4 +1,4 @@
-## Building a More Public AI Ecosystem
+## A workshop at the Library of Congress
 August 14, 2024
 
 An invitation-only gathering to strengthen and spark new collaborations across the public sector, academia, and civil society to build a public AI ecosystem that benefits the American public.
