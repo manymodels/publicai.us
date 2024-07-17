@@ -1,6 +1,6 @@
 **Building a More Public AI Ecosystem**
 
-August 14, 2024 at the Library of Congress (reception August 13)
+August 14, 2024 at the Library of Congress (with an evening reception on August 13)
 
 An invitation-only gathering to strengthen and spark new collaborations across the public sector, academia, and civil society to build a public AI ecosystem that benefits the American public.
  
