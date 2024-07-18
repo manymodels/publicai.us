@@ -17,6 +17,4 @@ Speakers will be announced in late July.
 
 While there are many conferences and workshops on AI, this gathering is specifically tailored for individuals and organizations dedicated to leveraging AI for the public interest. Compared to commercial events designed to help vendors pitch products to public sector professionals, this workshop will focus on sharing information and connecting individuals across agencies and organizations. Our hope is that by bringing together public sector agencies, civil society, and academia, we can begin to foster a wider AI ecosystem based around the public sector and the public interest.
 
-This event is co-hosted by the [Library of Congress](loc.gov), [Aspen Digital](aspendigital.org), and the [Public AI Network](https://publicai.network). We are grateful to the Rockefeller Foundation and Patrick J. McGovern Foundation for their support of this initiative.
-
-Building a More Public AI Ecosystem is a widely-attended event, designed in compliance with House and Senate ethics rules.
+This event is co-hosted by the [Library of Congress](loc.gov), [Aspen Digital](aspendigital.org), and the [Public AI Network](https://publicai.network). We are grateful to the Rockefeller Foundation and Patrick J. McGovern Foundation for their support of this initiative. We believe this event will be considered a widely-attended event in compliance with House and Senate ethics rules.
