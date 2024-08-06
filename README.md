@@ -13,7 +13,7 @@ The event will be organized around three core pillars, each intended to produce 
 
 Other topics to be covered in the workshop include current national initiatives and approaches such as AuroraGPT; the translation of AI research in public labs into public services; practical questions of governance, auditing, assessment, and access; bias and risk; best-practices in engaging the private sector; legal liability; and similar initiatives planned in individual states and in other countries.
 
-Speakers will be announced in late July.
+Speakers include Lawrence Lessig (Harvard), Katerina Antypas (NSF), Zach Whitman (GSA), Victoria Houed (Commerce), Travis Hoppe (White House), and Julia Lane (NYU).
 
 While there are many conferences and workshops on AI, this gathering is specifically tailored for individuals and organizations dedicated to leveraging AI for the public interest. Compared to commercial events designed to help vendors pitch products to public sector professionals, this workshop will focus on sharing information and connecting individuals across agencies and organizations. Our hope is that by bringing together public sector agencies, civil society, and academia, we can begin to foster a wider AI ecosystem based around the public sector and the public interest.
 
