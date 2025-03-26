@@ -1,4 +1,8 @@
-# Utah Libraries for Public AI
+---
+title: Utah Libraries for Public AI
+layout: page
+description: A public AI pilot program for Utah libraries.
+---
 
 ## 🌐 A New Role for Libraries in the AI Age
 
