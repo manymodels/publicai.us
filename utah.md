@@ -58,6 +58,7 @@ Public AI is AI as public infrastructure—like public parks, highways, electric
 
 ## 📖 Learn More
 
-📄 [Public AI White Paper](https://publicai.network/whitepaper)  
-🌐 [Metagov](https://metagov.org)  
+📣 [Building a More Public AI Ecosystem @ Library of Congress](https://www.aspendigital.org/event/building-a-more-public-ai-ecosystem/)
+📄 [Public AI White Paper](https://publicai.network/whitepaper)
 🏛️ [Library of Congress Digital Strategy](https://loc.gov/digital-strategy)
+🌐 [Metagov](https://metagov.org)  
