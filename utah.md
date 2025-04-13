@@ -43,7 +43,6 @@ Apply at [this form](https://forms.gle/FPJhXAhnZ4pcqwuT9) by July 5, 2025. Quest
 ## 🛠️ Partners
 
 - [Utah State Library](https://library.utah.gov/)
-- [Utah Office of Artificial Intelligence Policy](https://ai.utah.gov/)
 - [Library of Congress](https://loc.gov)
 - [Metagov](https://metagov.org/)
 - [Internet Archive](https://archive.org/)
@@ -58,7 +57,8 @@ Public AI is AI as public infrastructure—like public parks, highways, electric
 
 ## 📖 Learn More
 
-📣 [Building a More Public AI Ecosystem @ Library of Congress](https://www.aspendigital.org/event/building-a-more-public-ai-ecosystem/)
-📄 [Public AI White Paper](https://publicai.network/whitepaper)
-🏛️ [Library of Congress Digital Strategy](https://loc.gov/digital-strategy)
-🌐 [Metagov](https://metagov.org)  
+- 📣 [Building a More Public AI Ecosystem @ Library of Congress](https://www.aspendigital.org/event/building-a-more-public-ai-ecosystem/)
+- 📄 [Public AI White Paper](https://publicai.network/whitepaper)
+- 🏛️ [Library of Congress Digital Strategy](https://loc.gov/digital-strategy)
+- 🛠️ [Utah Office of Artificial Intelligence Policy](https://ai.utah.gov/)
+- 🌐 [Metagov](https://metagov.org)
