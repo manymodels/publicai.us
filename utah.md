@@ -8,7 +8,7 @@ description: A public AI pilot program for Utah libraries.
 
 Public libraries have long served as trusted centers for information, learning, and community. Now, they have a chance to become something even more: trusted providers of **public AI**.
 
-The [Utah State Library](https://library.utah.gov/) and the [Utah Office of Artificial Intelligence Policy](https://ai.utah.gov/), in partnership with the Library of Congress, Metagov, Mozilla, and the Internet Archive, are launching a pilot program to bring **community-based AI services** to public libraries across the state of Utah. This is your opportunity to join a national effort to make **AI more accessible and useful for your community.**
+The [Utah State Library](https://library.utah.gov/) in partnership with the Library of Congress, Metagov, Mozilla, and the Internet Archive, are launching a pilot program to bring **community-based AI services** to public libraries across the state of Utah. This is your opportunity to join a national effort to make **AI more accessible and useful for your community.**
 
 ## 📚 The Library Pilot Program
 
