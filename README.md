@@ -1,7 +1,7 @@
 ---
 title: Building Public AI with Libraries
 layout: page
-description: A public AI pilot program for libraries.
+description: An AI pilot program for public libraries.
 ---
 
 ## 🌐 A New Role for Libraries in the AI Age
@@ -12,7 +12,7 @@ The Library of Congress, Metagov, and Mozilla, in partnership with the [Utah Sta
 
 ## 📚 The Library Pilot Program
 
-We are inviting **5-10** libraries across the United States to join the pilot program in 2025-2026.
+We are inviting **8-10** libraries across the United States to join the pilot program in 2025-2026. **The program will begin in Fall 2025**.
 
 Each pilot site will receive:
 - A **dedicated AI workstation** with open-source models and a community-specific knowledge interface
@@ -37,8 +37,16 @@ We’re looking for libraries across **diverse regions and community types**. Id
 - Eager to support community members in accessing new technologies
 - Committed to making technology work for everyone
 
+We envision a fast-paced, dynamic program where we iterate and co-design the software in partnership with members of the pilot program. Each applicant team should include one library director who can champion the project and one member of staff who is able to run it and serve as the regular point-of-contact.
+
 **Interested in becoming a pilot site? Want to learn more?**
 Apply at [this form](https://forms.gle/FPJhXAhnZ4pcqwuT9) by July 5, 2025. Questions? Reach out to: [josh@publicai.network](mailto:josh@publicai.network).
+
+## 🧠 What Is Public AI?
+
+Public AI is AI as public infrastructure—like public parks, highways, electricity, and yes, libraries. It's **open, accountable, and sustainably maintained**, with access available to all.
+
+> “In labs, libraries, and legislatures around the world, the work to reignite our shared imagination by building Public AI has already begun.”  — *Public AI White Paper (2024)*
 
 ## 🛠️ Partners
 
@@ -49,12 +57,6 @@ Apply at [this form](https://forms.gle/FPJhXAhnZ4pcqwuT9) by July 5, 2025. Quest
 - [Utah State Library](https://library.utah.gov/)
 - [New Jersey State Library](https://www.njstatelib.org)
 - More to be announced
-
-## 🧠 What Is Public AI?
-
-Public AI is AI as public infrastructure—like public parks, highways, electricity, and yes, libraries. It's **open, accountable, and sustainably maintained**, with access available to all.
-
-> “In labs, libraries, and legislatures around the world, the work to reignite our shared imagination by building Public AI has already begun.”  — *Public AI White Paper (2024)*
 
 ## 📖 Learn More
 
