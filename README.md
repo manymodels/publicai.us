@@ -1,20 +1,64 @@
-**Building a More Public AI Ecosystem**
+---
+title: Building Public AI with Libraries
+layout: page
+description: A public AI pilot program for libraries.
+---
 
-August 14, 2024 at the Library of Congress (with an evening reception on August 13)
+## 🌐 A New Role for Libraries in the AI Age
 
-An invitation-only gathering to strengthen and spark new collaborations across the public sector, academia, and civil society to build a public AI ecosystem that benefits the American public.
- 
-Across the government, many efforts are already underway to put AI to work to positively impact the American public, from the AI Executive Order to the National AI Research Resource Pilot. Building on this momentum, this event brings together leaders from the public sector, academia, and civil society to lay a foundation for viable public alternatives and complements to private AI systems.
+Public libraries have long served as trusted centers for information, learning, and community. Now, they have a chance to become something even more: trusted providers of **public AI**.
 
-The event will be organized around three core pillars, each intended to produce a concrete output. 
-- **What do we mean by public AI?** How does it compare to other forms of AI such as national AI, open source AI, or democratic AI? The output of this pillar will be a draft definition and report on public AI in the US.
-- **How do we build public AI?** How can we grow an ecosystem for public AI?  What is the practical path by which AI systems can be developed to serve the public interest? What are the necessary building blocks, and how do we combine them together in an public and accountable ecosystem? The output of this pillar will be an actionable technical roadmap towards more public AI in the US public sector, along with practical recommendations for deployment.
-- **Who will build public AI?** What different skills and stakeholders will need to be involved in to build safe and responsible AIs? The specific output of this pillar will be a network of public AI practitioners and researchers.
+The Library of Congress, Metagov, and Mozilla, in partnership with the [Utah State Library](https://library.utah.gov/) and the [New Jersey State Library](https://www.njstatelib.org/) are launching a pilot program to bring **community-based AI services** to public libraries across the United States. This is your opportunity to join a national effort to make **AI more accessible and useful for your community.**
 
-Other topics to be covered in the workshop include current national initiatives and approaches such as AuroraGPT; the translation of AI research in public labs into public services; practical questions of governance, auditing, assessment, and access; bias and risk; best-practices in engaging the private sector; legal liability; and similar initiatives planned in individual states and in other countries.
+## 📚 The Library Pilot Program
 
-Speakers include Lawrence Lessig (Harvard), Katerina Antypas (NSF), Zach Whitman (GSA), Victoria Houed (Commerce), Travis Hoppe (White House), and Julia Lane (NYU).
+We are inviting **5-10** libraries across the United States to join the pilot program in 2025-2026.
 
-While there are many conferences and workshops on AI, this gathering is specifically tailored for individuals and organizations dedicated to leveraging AI for the public interest. Compared to commercial events designed to help vendors pitch products to public sector professionals, this workshop will focus on sharing information and connecting individuals across agencies and organizations. Our hope is that by bringing together public sector agencies, civil society, and academia, we can begin to foster a wider AI ecosystem based around the public sector and the public interest.
+Each pilot site will receive:
+- A **dedicated AI workstation** with open-source models and a community-specific knowledge interface
+- A **grant** to support dedicated staff time to test and pilot the program
+- Hands-on **training and support**
+- Access to **AI infrastructure** for organizing and localizing community data
+- Opportunities to shape the future of public AI across America
 
-This event is co-hosted by the [Library of Congress](https://loc.gov), [Aspen Digital](https://aspendigital.org), [Metagov](https://metagov.org) and the [Public AI Network](https://publicai.network). We are grateful to the Rockefeller Foundation and Patrick J. McGovern Foundation for their support of this initiative. We believe this event will be considered a widely-attended event in compliance with House and Senate ethics rules.
+Libraries will also participate in storytelling, workshops, and a final presentation to Utah lawmakers and stakeholders.
+
+## 🤝 Why Your Library?
+
+- **You're already trusted.** Libraries are among the most respected institutions in the country.
+- **You’re already experimenting.** From book club bots to grant-writing help, libraries are exploring how AI can help.
+- **You have the skills.** Librarians are information scientists and community leaders—perfectly positioned to steward AI access.
+- **You’re everywhere.** Libraries reach every corner of the nation. This is public infrastructure at its finest.
+
+## 🚀 Get Involved
+
+We’re looking for libraries across **diverse regions and community types**. Ideal pilot libraries are:
+- Excited to innovate and serve as AI hubs
+- Eager to support community members in accessing new technologies
+- Committed to making technology work for everyone
+
+**Interested in becoming a pilot site? Want to learn more?**
+Apply at [this form](https://forms.gle/FPJhXAhnZ4pcqwuT9) by July 5, 2025. Questions? Reach out to: [josh@publicai.network](mailto:josh@publicai.network).
+
+## 🛠️ Partners
+
+- [Library of Congress](https://loc.gov)
+- [Metagov](https://metagov.org/)
+- [Mozilla](https://mozilla.org)
+- [Internet Archive](https://archive.org/)
+- [Utah State Library](https://library.utah.gov/)
+- [New Jersey State Library](https://www.njstatelib.org)
+- More to be announced
+
+## 🧠 What Is Public AI?
+
+Public AI is AI as public infrastructure—like public parks, highways, electricity, and yes, libraries. It's **open, accountable, and sustainably maintained**, with access available to all.
+
+> “In labs, libraries, and legislatures around the world, the work to reignite our shared imagination by building Public AI has already begun.”  — *Public AI White Paper (2024)*
+
+## 📖 Learn More
+
+- 📣 [Building a More Public AI Ecosystem @ Library of Congress](https://www.aspendigital.org/event/building-a-more-public-ai-ecosystem/)
+- 📄 [Public AI White Paper](https://publicai.network/whitepaper)
+- 🏛️ [Library of Congress Digital Strategy](https://loc.gov/digital-strategy)
+- 🌐 [Metagov](https://metagov.org)
