@@ -1,6 +1,5 @@
 ---
 title: Building Public AI with Libraries
-layout: page
 description: An AI pilot program for public libraries.
 ---
 
