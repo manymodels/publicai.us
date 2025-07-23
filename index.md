@@ -3,26 +3,24 @@ title: Building Public AI with Libraries
 description: An AI pilot program for public libraries.
 ---
 
-## 🌐 A New Role for Libraries in the AI Age
+## A New Role for Libraries in the AI Age
 
 Public libraries have long served as trusted centers for information, learning, and community. Now, they have a chance to become something even more: trusted providers of **public AI**.
 
 The Library of Congress, Metagov, and Mozilla, in partnership with the [Utah State Library](https://library.utah.gov/) and the [New Jersey State Library](https://www.njstatelib.org/) are launching a pilot program to bring **community-based AI services** to public libraries across the United States. This is your opportunity to join a national effort to make **AI more accessible and useful for your community.**
 
-## 📚 The Library Pilot Program
+## The Library Pilot Program
 
 We are inviting **8-10** libraries across the United States to join the pilot program in 2025-2026. **The program will begin in Fall 2025**.
 
 Each pilot site will receive:
-- A **dedicated AI workstation** with open-source models and a community-specific knowledge interface
-- A **grant** to support dedicated staff time to test and pilot the program
-- Hands-on **training and support**
+- A **dedicated AI workstation** with open source models, a set of curated AI applications, and a community-specific knowledge interface
 - Access to **AI infrastructure** for organizing and localizing community data
-- Opportunities to shape the future of public AI across America
+- Opportunities to shape the **future of public AI**
 
 Libraries will also participate in storytelling, workshops, and a final presentation to Utah lawmakers and stakeholders.
 
-## 🤝 Why Your Library?
+## Why Your Library?
 
 - **You're already trusted.** Libraries are among the most respected institutions in the country.
 - **You’re already experimenting.** From book club bots to grant-writing help, libraries are exploring how AI can help.
@@ -45,7 +43,7 @@ Apply at [this form](https://forms.gle/FPJhXAhnZ4pcqwuT9) by July 5, 2025. Quest
 
 Public AI is AI as public infrastructure—like public parks, highways, electricity, and yes, libraries. It's **open, accountable, and sustainably maintained**, with access available to all.
 
-> “In labs, libraries, and legislatures around the world, the work to reignite our shared imagination by building Public AI has already begun.”  — *Public AI White Paper (2024)*
+> “In labs, libraries, and legislatures around the world, the work to reignite our shared imagination by building Public AI has already begun.” — *Public AI White Paper (2024)*
 
 ## 🛠️ Partners
 
