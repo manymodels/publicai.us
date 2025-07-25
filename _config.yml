@@ -1,6 +1,9 @@
 theme: minima
 title: Building Public AI with Libraries
 description: An AI pilot program for public libraries
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
 
 # Theme-specific settings
 
@@ -33,6 +36,7 @@ minima:
 # order as they should show up.
 #
 header_pages:
+  - utah.md
 
 # Set to `true` to show excerpts on the homepage.
 #
