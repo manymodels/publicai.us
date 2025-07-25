@@ -1,9 +1,10 @@
-theme: minima
+theme: null
+plugins:
+  - jekyll-remote-theme
+
 title: Building Public AI with Libraries
 description: An AI pilot program for public libraries
 markdown: kramdown
-highlighter: rouge
-permalink: pretty
 
 # Theme-specific settings
 
