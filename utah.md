@@ -1,5 +1,5 @@
 ---
-title: Utah Libraries for Public AI
+title: Utah
 layout: page
 description: A public AI pilot program for Utah libraries.
 ---
