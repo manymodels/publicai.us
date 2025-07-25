@@ -1,5 +1,6 @@
 ---
-title: Utah
+title: Public AI in Utah
+nav_title: Utah
 layout: page
 description: A public AI pilot program for Utah libraries.
 ---
