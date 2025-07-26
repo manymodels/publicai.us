@@ -1,6 +1,4 @@
-remote_theme: jekyll/minima
-plugins:
-  - jekyll-remote-theme
+theme: null
 title: Building Public AI with Libraries
 description: An AI pilot program for public libraries
 
