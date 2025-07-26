@@ -1,4 +1,4 @@
-remote_theme: minima
+theme: minima
 title: Building Public AI with Libraries
 description: An AI pilot program for public libraries
 
