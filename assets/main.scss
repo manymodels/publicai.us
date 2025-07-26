@@ -8,20 +8,37 @@ body {
     font-family: Helvetica, Arial, sans-serif;
 }
 
-.site-title::before {
-    content: url("/assets/logo.png");
-    display: inline-block;
-    position: relative;
-    width: 227px;
-    top: 10px;
-}
 .site-title{ 
     font-size: 0px;
+    background: url("/assets/logo.png");
+    background-size: 100%;
+    display: block;
+    width: 150px;
+    height: 40px;
+    position: relative;
+    top: 10px;
+}
+
+a.button {
+    background: #EF233C;
+    color: white;
+    padding: 10px 14px;
+}
+a.button:hover {
+    text-decoration: none;
+    color: #EEDFDF
+}
+
+a.button::after{
+    content: '→';
+    position: relative;
+    margin-left: 5px;
 }
 
 h2 {
     font-weight: bold;
     letter-spacing: -0.5px;
+    margin-top: 30px;
 }
     
 .home blockquote{
