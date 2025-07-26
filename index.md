@@ -18,7 +18,7 @@ Each pilot site will receive:
 - Access to **AI infrastructure** for organizing and localizing community data
 - Opportunities to shape the **future of public AI**
 
-Libraries will also participate in storytelling, workshops, and a final presentation to Utah lawmakers and stakeholders.
+Libraries will also participate in storytelling, workshops, and a final presentation to local stakeholders and lawmakers.
 
 ## Why Your Library?
 
