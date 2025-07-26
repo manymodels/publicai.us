@@ -1,7 +1,4 @@
-theme: null
-plugins:
-  - jekyll-remote-theme
-
+theme: minima
 title: Building Public AI with Libraries
 description: An AI pilot program for public libraries
 markdown: kramdown
@@ -37,9 +34,8 @@ minima:
 # order as they should show up.
 #
 
-nav:
-  - title: "Utah Test"
-    url: "/utah/"
+header_pages:
+- utah.md
 
 # Set to `true` to show excerpts on the homepage.
 #
